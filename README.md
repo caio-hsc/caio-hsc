@@ -56,6 +56,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/caio-hsc/caio-hsc/output/snake.svg" alt="Snake animation" />
 
 ###
