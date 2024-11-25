@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Sou desenvolvedor back-end, com um pézinho no front-end<br><br>- 🔭 Atualmente trabalhando com desenvolvimento C#<br>- 📚 Focado em melhorias e sustentação dos sistemas</p>
+<p align="center">Sou desenvolvedor back-end, com um pézinho no front-end<br><br>- 🔭 Atualmente trabalhando com desenvolvimento C#<br>- 📚 Focado em melhorias e sustentação dos sistemas</p>
 
 ###
 
