@@ -49,7 +49,7 @@
 <br clear="both">
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?caio-hsc=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://streak-stats.demolab.com?user=caio-hsc&locale=pt-br&mode=weekly&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
